@@ -44,3 +44,9 @@ com 0.05
 Lucro 4.39999999999975
 Quantidade 28
 Porcentagem 35.714285714285715%
+
+
+
+
+
+USAR A STOCH para vender! 
